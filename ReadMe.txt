@@ -15,16 +15,6 @@ CONTENTS OF THIS FILE
 1_INTRODUCTION
 -----------------------
 This project is an assignment of Software Engineering Labratory. (BBM487)
-Advisors: Ph.D Associate Professor Vahid Garousi
-	  Ph.D Assistant Professor Ayça Tarhan
-	  R.A	Tuðba Gürgen Erdoðan
-	  R.A	Pelin Canbay
-
-Group Members: Ahmet Ceyhan
-	       Mert Tuncer
-	       Daghan Emre Aytac	 
-
-Complated the set and released on 4 April 2016, updated 3 May 2016.
 
 Use at your own risk - We're pretty sure the code is harmless, but check it yourself.
 
