@@ -1,0 +1,13 @@
+d:\belgeler\visual studio 2013\Projects\l0.2\l0.2\bin\Debug\l0.2.exe.config
+d:\belgeler\visual studio 2013\Projects\l0.2\l0.2\bin\Debug\l0.2.exe
+d:\belgeler\visual studio 2013\Projects\l0.2\l0.2\bin\Debug\l0.2.pdb
+d:\belgeler\visual studio 2013\Projects\l0.2\l0.2\obj\Debug\l0._2.Form1.resources
+d:\belgeler\visual studio 2013\Projects\l0.2\l0.2\obj\Debug\l0._2.Properties.Resources.resources
+d:\belgeler\visual studio 2013\Projects\l0.2\l0.2\obj\Debug\l0.2.csproj.GenerateResource.Cache
+d:\belgeler\visual studio 2013\Projects\l0.2\l0.2\obj\Debug\l0.2.exe
+d:\belgeler\visual studio 2013\Projects\l0.2\l0.2\obj\Debug\l0.2.pdb
+D:\Belgeler\Visual Studio 2013\Projects\l0.2\l0.2\obj\Debug\l0.2.csprojResolveAssemblyReference.cache
+D:\Belgeler\Visual Studio 2013\Projects\l0.2\l0.2\obj\Debug\l0._2.Form2.resources
+D:\Belgeler\Visual Studio 2013\Projects\l0.2\l0.2\obj\Debug\l0._2.Form3.resources
+D:\Belgeler\Visual Studio 2013\Projects\l0.2\l0.2\obj\Debug\l0._2.Form4.resources
+D:\Belgeler\Visual Studio 2013\Projects\l0.2\l0.2\obj\Debug\l0._2.Form5.resources
